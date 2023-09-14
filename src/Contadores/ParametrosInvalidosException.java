@@ -1,4 +1,4 @@
-package Contadores;
+package contadores;
 
 public class ParametrosInvalidosException extends Exception {
     public ParametrosInvalidosException(String message) {

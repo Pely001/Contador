@@ -1,4 +1,4 @@
-package Contadores;
+package contadores;
 
 public class Contagem {
     static void contar(int parametroUm, int parametroDois) throws ParametrosInvalidosException {

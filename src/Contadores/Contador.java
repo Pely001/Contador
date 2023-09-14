@@ -1,4 +1,4 @@
-package Contadores;
+package contadores;
 import java.util.Scanner;
 
 public class Contador {
